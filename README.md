@@ -10,7 +10,7 @@ for when you're stuck on an error
 With [fisherman]
 
 ```
-fisher adgelbfish/imstuck
+fisher adgelbfish/imstuck-fish
 ```
 
 ## Usage

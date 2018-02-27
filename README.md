@@ -3,7 +3,9 @@
 [![Build Status][travis-badge]][travis-link]
 [![Slack Room][slack-badge]][slack-link]
 
-when you're stuck on an error, just run `imstuck {command that's erroring}` and it will help you magically in ways you wouldn't have imagined.
+When you're stuck on an error:
+run `imstuck {command that's erroring}`
+*it will help you magically in ways you wouldn't have imagined.*
 
 ## Install
 

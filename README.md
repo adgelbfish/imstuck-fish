@@ -16,7 +16,7 @@ fisher adgelbfish/imstuck
 ## Usage
 
 ```fish
-imstuck
+imstuck {commmand}
 ```
 
 [travis-link]: https://travis-ci.org/adgelbfish/imstuck

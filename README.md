@@ -7,7 +7,7 @@ When you're stuck on an error:
 
 run `imstuck {command that's erroring}`
 
-**it will help you magically in ways you wouldn't have imagined.**
+**it will help you in ways you wouldn't have imagined.**
 
 ## Install
 
